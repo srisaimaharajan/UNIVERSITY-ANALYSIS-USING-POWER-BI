@@ -1,6 +1,8 @@
 # UNIVERSITY-ANALYSIS-USING-POWER-BI
 
-![image](https://github.com/user-attachments/assets/bc4ba26e-d8f7-49a9-b5d1-69fa058c3c4d)
+![image](https://github.com/user-attachments/assets/f440383a-d5d0-44e5-beee-4b7545020074)
+
+
 
 This is a Power BI dashboard summarizing university-related data. Here's an explanation of its key components:
 
